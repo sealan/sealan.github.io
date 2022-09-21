@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Séalan Cronin
+title: shayshay.dev
 email: sealan.cronin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Notes on web dev.
@@ -28,11 +28,43 @@ twitter_username: sealan
 github_username:  sealan
 
 # Build settings
-#theme: minima
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "neon"
+
+name: Séalan Cronin
+
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+# Site Author
+author:
+  name             : "Séalan Cronin"
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "Web Developer"
+  location         : "London, UK"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:sealan.cronin@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.sealancronin.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/sealan"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sealan"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

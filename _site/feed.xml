@@ -1,23 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-21T15:30:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Séalan Cronin</title><subtitle>Notes on web dev.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2022/09/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-09-21T14:57:16+01:00</published><updated>2022-09-21T14:57:16+01:00</updated><id>http://localhost:4000/jekyll/update/2022/09/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/09/21/welcome-to-jekyll.html">You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-21T16:15:31+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">shayshay.dev</title><subtitle>Notes on web dev.</subtitle><author><name>Séalan Cronin</name></author><entry><title type="html">Developer Journal</title><link href="http://localhost:4000/2022/09/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Developer Journal" /><published>2022-09-21T14:57:16+01:00</published><updated>2022-09-21T14:57:16+01:00</updated><id>http://localhost:4000/2022/09/21/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/2022/09/21/welcome-to-jekyll.html">&lt;p&gt;Ah, you’ve stumbled upon my developer journal.&lt;/p&gt;
 
-Jekyll requires blog post files to be named according to the following format:
+&lt;p&gt;Welcome.&lt;/p&gt;
 
-`YEAR-MONTH-DAY-title.MARKUP`
+&lt;p&gt;In time, I will write up notes on various web development topics.&lt;/p&gt;
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+&lt;p&gt;With luck, this post will disappear.&lt;/p&gt;
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts &quot;Hi, #{name}&quot;
-end
-print_hi(&apos;Tom&apos;)
-#=&gt; prints &apos;Hi, Tom&apos; to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Until then.&lt;/p&gt;</content><author><name>Séalan Cronin</name></author><summary type="html">Ah, you’ve stumbled upon my developer journal.</summary></entry></feed>
